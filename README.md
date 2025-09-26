@@ -8,13 +8,11 @@ I enjoy working across the stack, automating workflows, and experimenting with n
 ## Tech Stack
 
 **Frontend**  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)  ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)  
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white&style=flat-square)  
-![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=flat-square)  
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white&style=flat-square)  ![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=flat-square)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)  
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square)  
 

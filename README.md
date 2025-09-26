@@ -5,9 +5,3 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=catalinafightsong&theme=tokyo-night&hide_border=true" />
 </p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Always+Building&center=true&width=450&height=45">
-</p>

@@ -1,14 +1,5 @@
 <p align="center"><img align="center" src="https://i.pinimg.com/564x/fe/04/a0/fe04a0265c4deab343ea8cd8ee6d32be.jpg"></p>
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catalinafightsong&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalinafightsong&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Activity Graph
 
 <p align="center">
